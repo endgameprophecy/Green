@@ -1,4 +1,4 @@
-# Green
+# CryptoGreen
 Elevator Pitch
 Use CryptoGreen to make some extra money and help save the environment.
 
