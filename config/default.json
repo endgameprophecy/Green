@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://WinstonCai:rY93A525jOjEipIk@cluster0.d7l7g.mongodb.net/CryptoGreen?retryWrites=true&w=majority",
+    "jwtSecret": "ip_myJwtSecret"
+}
+
+
+
